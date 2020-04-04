@@ -1,5 +1,8 @@
 _repo: Le-sang-de-la-sirene_61718
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61718-h/images/cover.jpg
 creator:
   author:
     agent_name: Le Braz, Anatole
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anatole_Le_Braz
     - https://fr.wikipedia.org/wiki/Anatole_Le_Braz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61718#Le-sang-de-la-sirene
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Nouvelles
