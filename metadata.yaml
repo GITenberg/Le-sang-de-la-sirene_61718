@@ -1,0 +1,35 @@
+_repo: Le-sang-de-la-sirene_61718
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Braz, Anatole
+    aliases:
+    - Braz, Anatole Le
+    - Braz, A. Le
+    birthdate: 1859
+    deathdate: 1926
+    gutenberg_agent_id: '51127'
+    url: http://www.gutenberg.org/2009/agents/51127
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anatole_Le_Braz
+    - https://fr.wikipedia.org/wiki/Anatole_Le_Braz
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Nouvelles
+gutenberg_issued: '2020-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61718'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Le sang de la sirène -- Fille de fraudeurs -- Les noces noires de
+  Guernaham.
+title: Le sang de la sirène
+url: http://www.gutenberg.org/ebooks/61718
